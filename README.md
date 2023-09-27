@@ -13,6 +13,6 @@ File -> Project Structure -> Dependencies -> app -> + -> 1
 Opcion 02:
 
 build.gradle.kts(Module: app) 
- - dependencies
-    - implementation("com.squareup.retrofit2:retrofit:2.9.0")
-    - implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+dependencies
+  - implementation("com.squareup.retrofit2:retrofit:2.9.0")
+  - implementation("com.squareup.retrofit2:converter-gson:2.9.0")
